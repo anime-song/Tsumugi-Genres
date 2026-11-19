@@ -1,0 +1,7 @@
+Tsumugi-Genres model-weight license
+
+The weights in this repository (genres.safetensors) are licensed under Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/
+
+The model reads the encoder of SheetSage2-Refined (https://huggingface.co/anime-song/SheetSage2-Refined),
+whose weights are under their own license (CC BY-NC 4.0).
